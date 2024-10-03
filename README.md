@@ -163,7 +163,8 @@ Here’s a visual representation of the data model after the cleaned and prepare
 ![Data model](https://github.com/user-attachments/assets/8748c1c4-90e7-42c0-8d9c-a54fb9967266)
 
 # Sales Management Dashboard
-![Customer details 2](https://github.com/user-attachments/assets/79ce44bc-0ca2-4fcf-898c-0c632cbcdf87)
+![Screenshot 2024-10-03 182238](https://github.com/user-attachments/assets/3528ddc2-d9a3-450f-9d1c-2d12be7ce1bc)
+
 ![Sales overview](https://github.com/user-attachments/assets/51351ad8-87ff-425c-a42d-8a6e9f89d72f)
 
 
