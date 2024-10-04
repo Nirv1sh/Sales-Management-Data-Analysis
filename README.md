@@ -1,5 +1,5 @@
 # Sales-Management-Data-Analysis
-My name is Nirvish, and I am currently pursuing an M.Sc. in Big Data Analytics from Trent University. This is the first project I’ve created to showcase in my Data Analyst portfolio. 
+My name is Nirvish, and I am currently pursuing a M.Sc. in Big Data Analytics from Trent University. This is the first project I’ve created to showcase in my Data Analyst portfolio. 
 
 # Business Request & User Stories
 The business request for this data analyst project was an executive sales report for sales managers. Based on the request that was made from the business we following user stories were defined to fulfill delivery and ensure that acceptance criteria’s were maintained throughout the project.
